@@ -1,0 +1,6 @@
+project_id = "ariefjr"
+credentials_file_path = "./sample.json"
+service_account = "you service_account"
+region = "asia-southeast2"
+main_zone = "asia-southeast2-a"
+cluster_node_zones = ["asia-southeast2-a"]
